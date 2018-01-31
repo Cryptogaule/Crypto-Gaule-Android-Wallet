@@ -29,6 +29,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @author John L. Jegutanis
  * @author Andreas Schildbach
+ * @author Damien Morales
  */
 public class Constants {
 
